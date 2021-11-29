@@ -20,7 +20,7 @@ session_start();
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
     <style>
         body {
-            background-color: #f8f9ff;
+            background-color: #ffffff;
             color: rgb(17, 17, 17);
             font-family: monospace, serif;
             letter-spacing: 0.05em;
@@ -173,13 +173,13 @@ session_start();
             <img id="logo" src="https://i.ibb.co/1n3103W/BOX.png" alt="" srcset=""></a>
         <div class="sidebarOption ">
             <span class="material-icons"> home </span>
-            <a href="./home.html">
+            <a href="index.php">
                 <h2 style="color: #50b7f5;;">Home</h2>
             </a>
         </div>
         <div class="sidebarOption">
             <span class="material-icons active"> perm_identity </span>
-            <a class="sidebarOption_links" href="#">
+            <a class="sidebarOption_links" href="profile.php">
                 <h2>Profile</h2>
             </a>
         </div>
@@ -187,21 +187,21 @@ session_start();
 
         <div class="sidebarOption">
             <span class="material-icons"> list_alt </span>
-            <a class="sidebarOption_links" href="#">
+            <a class="sidebarOption_links" href="us.html">
                 <h2>About Us</h2>
             </a>
         </div>
 
         <div class="sidebarOption">
             <span class="material-icons"> contacts </span>
-            <a class="sidebarOption_links" href="#">
+            <a class="sidebarOption_links" href="help.php">
                 <h2>Contact Us</h2>
             </a>
         </div>
         <hr>
         <div class="sidebarOption">
             <span class="material-icons"> hearing </span>
-            <a class="sidebarOption_links" href="./help.html">
+            <a class="sidebarOption_links" href="announce.php">
                 <h2>Host Your Own Announcement</h2>
             </a>
         </div>
