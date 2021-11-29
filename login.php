@@ -55,7 +55,7 @@ and password='".md5($password)."'";
         }
         
         body {
-            background-color: #f8f9ff;
+            background-color: #ffffff;
             color: rgb(17, 17, 17);
             font-family: monospace, serif;
             letter-spacing: 0.05em;
@@ -281,7 +281,7 @@ and password='".md5($password)."'";
             <h1 style="position: absolute;padding-left: 11px;top: 0px;font-size: 30px;color: #00acee;">Box</h1>
         </div>
         <div style="margin-left: 50%; height: 10px;">
-            <h2 style="position: absolute;padding-right: 11px;top: 9px;font-size: 17px;right: 18px;color:#5e5e5e;"><a href="https://www.gla.ac.in/" target="_blank" style="text-decoration: none;">About us</a> </h2>
+            <h2 style="position: absolute;padding-right: 11px;top: 9px;font-size: 17px;right: 18px;color:#5e5e5e;"><a href="us.html" target="_blank" style="text-decoration: none;">About us</a> </h2>
             <h2 style="position: absolute;padding-right: 11px;top: 9px;font-size: 17px;right: 148px;color:#5e5e5e;">Not a user?
                 <a href="registration.php" style="text-decoration: none;">Sign up here.</a>
             </h2>
