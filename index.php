@@ -403,7 +403,7 @@ input[type="file"] {
         <img id="logo" src="https://i.ibb.co/1n3103W/BOX.png" alt="" srcset="">
         <div class="sidebarOption active">
             <span class="material-icons"> home </span>
-            <a href="./home.html">
+            <a href="index.php">
                 <h2 style="color: #50b7f5;;">Home</h2>
             </a>
         </div>
@@ -417,21 +417,21 @@ input[type="file"] {
 
         <div class="sidebarOption">
             <span class="material-icons"> list_alt </span>
-            <a class="sidebarOption_links" href="#">
+            <a class="sidebarOption_links" href="us.html">
                 <h2>About Us</h2>
             </a>
         </div>
 
         <div class="sidebarOption">
             <span class="material-icons"> contacts </span>
-            <a class="sidebarOption_links" href="#">
+            <a class="sidebarOption_links" href="help.php">
                 <h2>Contact Us</h2>
             </a>
         </div>
         <hr>
         <div class="sidebarOption">
             <span class="material-icons"> hearing </span>
-            <a class="sidebarOption_links" href="announce.html">
+            <a class="sidebarOption_links" href="announce.php">
                 <h2>Host Your Own Announcement</h2>
             </a>
         </div>
